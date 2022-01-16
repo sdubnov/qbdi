@@ -1,7 +1,6 @@
 numpy
 matplotlib
 scipy
-sklearn
 librosa
 tqdm
 glob2
