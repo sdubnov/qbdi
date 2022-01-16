@@ -6,7 +6,7 @@ tqdm
 glob2
 msgpack
 pretty_midi
-py-midi
+python3-midi==0.2.5
 vmo
 pandas
 tensorflow
