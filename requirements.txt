@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scipy
+sklearn
+sndfile
+librosa
+tqdm
+glob2
+msgpack
+pretty_midi
+python3-midi
+vmo
+pandas
+tensorflow
